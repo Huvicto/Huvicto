@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Olá, eu sou Victor Hugo
 
+🎓 Estudando Ciência da Computação 
+
+---
+
+## 🚀 Sobre mim
+Sou Estudante de espero pooder entra na aréa de ti, atualmente focado em javascript
+
+🔹 conhecimento em **JavaScript, C++, Python e
+
+---
+
+## 🛠️ Principais Competências
+-**Linguagens:** JavaScript, Python, HTML5, CSS3, JavaScript  
+
+
+---
 <!--
-**Huvicto/Huvicto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats
+![Venilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=radical)
+"""
 -->
+
+## 📫 Contato
+-🔗 [LinkedIn](hwww.linkedin.com/in/victor-hugo-060265324)  
